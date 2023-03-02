@@ -1,0 +1,13 @@
+Moje složka obsahuje 2 příklady použití Pillow v Pythonu první z nich je vytvoření .jpg souboru který je čistě bíly a má rozměry 500x500. Rozměry i barva
+se dají změnit
+
+1. Vytvoření obrázku pomocí [py] souboru: VytvořeníObrázku.py v této složce (Nezapomeňte změnit adresář k vytvoření obrázku)
+
+Druhý příklad vytvoří text na již vyzvořeném .jpg obrázku Text a font a jeho velikost lze změnit.
+
+2. Přidání textu na již vytvoření obrázek Soubor: TextNaObrázek.py v této složce (Nezapomeňte změnit adresář k vytvoření obrázku)
+
+Nezapomenťe příklady použít v pořádí 
+1.
+2.
+Pokud neexistuje soubor obrazek.jpg není možné na něj vložit text pomocí souboru: VytvořeníObrázku.py
